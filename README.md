@@ -21,7 +21,7 @@ Then open **http://localhost:5173** in your browser. Press Ctrl+C to stop it.
 
 ## Live site
 
-Every push to `main` publishes the `public` folder to GitHub Pages: **https://mdadammdazwar-boop.github.io/powernotes/**
+Every push to `main` publishes the `public` folder to GitHub Pages: **https://mdadammdazwar-boop.github.io/PowerNotes/**
 
 To use your own domain later, add it under the repository's Settings > Pages > Custom domain, and add the DNS records GitHub shows there.
 
