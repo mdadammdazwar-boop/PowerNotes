@@ -1,0 +1,12 @@
+{
+  "name": "powernotes-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PowerNotes as a website: a fun, clean place to organize class notes.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
